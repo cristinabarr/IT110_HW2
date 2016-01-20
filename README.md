@@ -2,9 +2,7 @@
 
 1.) "True" and "False"
 
-2.) 
-
-and, or, and not
+2.) and, or, and not
 
 3.) 
 
@@ -40,23 +38,42 @@ and, or, and not
 
 8.) 
 
-1st Block > print('eggs') <br>
+    1st Block > print('eggs') <br>
                 if spam > 5: <br>
     2nd Block >   print('bacon') <br>
                 else: <br>
     3rd Block >   print('ham') <br>
                 print('spam')
 
-9.) if spam == 1: <br>
-      print('Hello') <br>
+9.) 
+    
+    if spam == 1: <br>
+        print('Hello') <br>
     elif spam == 2: <br>
-      print('Howdy') <br>
+         print('Howdy') <br>
     else: <br>
-      print('Greetings!')
+        print('Greetings!')
       
 10.) Press Ctrl+C to stop a program in an infinite loop
 
 11.) break statement moves the execution just outside of and immediately following a loop. <br>
     continue statement makes the program execution jump immediately back to the start of the loop and reevaluate the loop's condition.
     
-12.) 
+12.)
+        range(10) returns numbers starting at 0 and ranging up to but not including 10. <br>
+        range(0,10) returns numbers starting at 0 and ranging up to but not including 10. <br>
+        range(0,10,1) returns numbers starting at 0 and calls up numbers in increments of 1 up to but not including 10. <br><br>
+        
+        All of these return the same thing.
+      
+13.)
+       
+        for i in range(1,11): <br>
+        print(i) <br>
+    ===================================== <br>
+    
+        i=1
+        while i <=10:
+            print(i)
+            i = i + 1
+
