@@ -1,8 +1,10 @@
 # IT110_HW2
 
-1.) "True" and "False"
+1.) 
+        "True" and "False"
 
-2.) and, or, and not
+2.)
+        and, or, and not
 
 3.) 
 
@@ -77,3 +79,4 @@
             print(i)
             i = i + 1
 
+14.) 
