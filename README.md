@@ -40,19 +40,19 @@
 
 8.) 
 
-    1st Block > print('eggs') <br>
-                if spam > 5: <br>
-    2nd Block >   print('bacon') <br>
-                else: <br>
-    3rd Block >   print('ham') <br>
+    1st Block > print('eggs')
+                if spam > 5: 
+    2nd Block >   print('bacon') 
+                else: 
+    3rd Block >   print('ham') 
                 print('spam')
 
 9.) 
     
-    if spam == 1: <br>
-        print('Hello') <br>
-    elif spam == 2: <br>
-         print('Howdy') <br>
+    if spam == 1: 
+        print('Hello') 
+    elif spam == 2: 
+         print('Howdy') 
     else: <br>
         print('Greetings!')
       
@@ -80,3 +80,5 @@
             i = i + 1
 
 14.) 
+        spam.bacon()
+        
